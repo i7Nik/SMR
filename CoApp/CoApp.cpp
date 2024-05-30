@@ -6,7 +6,11 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    _mm_pause();
+ 
+
+
+    asdfasdf
+AAASADSADASD
 }
 
 
