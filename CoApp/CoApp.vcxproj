@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CoApp.cpp" />
+    <ClCompile Include="show.cpp" />
     <ClCompile Include="zap.cpp" />
     <ClCompile Include="tabl.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="show.h" />
     <ClInclude Include="tabl.h" />
     <ClInclude Include="zap.h" />
   </ItemGroup>
