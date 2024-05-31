@@ -1,6 +1,6 @@
 #include"zap.h"
 
-void zap(vector<tabl> pred, int a)
+void zap(vector<tabl>& pred, int a)
 {
 	for (int i = 0; i < a; i++)
 	{
