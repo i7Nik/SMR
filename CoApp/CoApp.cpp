@@ -5,8 +5,9 @@
 #include <iostream>
 #include "tabl.h"
 #include <Windows.h>
-#include<vector>//динамический векторный массив;
-#include"zap.h"//модуль для функции заполнения
+#include <vector>	//динамический векторный массив;
+#include "zap.h"	//модуль для функции заполнения
+#include "show.h"
 int main()
 {
 	SetConsoleCP(1251);//для корректной локализации
